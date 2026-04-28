@@ -1,0 +1,313 @@
+<mxfile host="Electron" modified="2024-08-31T13:03:20.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="Jq1bZfheZRW8vsekC8-3" version="24.5.3" type="device">
+  <diagram name="Page-1" id="abg21AF-8wBx9hoH3rMu">
+    <mxGraphModel dx="2977" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Diagramme de cas d&#39;utilisation général de l&#39;application mobile &quot;PicTrove&quot;&lt;/b&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=690;height=40;" parent="1" vertex="1">
+          <mxGeometry x="160" y="80" width="960" height="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Administrateur Technique&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry y="1140" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Utilisateur&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry y="310" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Rechercher des photos&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="190" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Naviguer dans les photos&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Visualiser les détails d&#39;une photo&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="637.5" y="280" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Télécharger des photos&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="360" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Gérer son compte&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="650" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-14" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Modifier son profil&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="700" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-15" value="Gérer les utilisateurs" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1030" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-16" value="Gérer le contenu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1280" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-17" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Rechercher par catégorie&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="230" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-18" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Rechercher par mots-clés&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="150" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-19" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Naviguer par catégorie&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="520" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-20" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Naviguer aléatoirement&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="440" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-22" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Modifier photo de profil&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="282" y="810" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-23" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Modifier le nom&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="738" y="810" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Modifer le mot de passe&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="810" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-25" value="Créer un utilisateur" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1150" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-26" value="Modifier un utilisateur" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1150" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-27" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Supprimer un utilisateur&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1160" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-28" value="Ajouter des photos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1410" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-30" value="Supprimer des photos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1410" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-31" value="Modifier les catégories" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1410" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Se déconnecter&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="627.5" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-34" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-3" target="ZEi_TAU3Dh7mGqA4sCaS-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="430" as="sourcePoint" />
+            <mxPoint x="620" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-3" target="ZEi_TAU3Dh7mGqA4sCaS-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="347" as="sourcePoint" />
+            <mxPoint x="230" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-3" target="ZEi_TAU3Dh7mGqA4sCaS-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="357" as="sourcePoint" />
+            <mxPoint x="240" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-3" target="ZEi_TAU3Dh7mGqA4sCaS-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="367" as="sourcePoint" />
+            <mxPoint x="250" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-3" target="ZEi_TAU3Dh7mGqA4sCaS-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="377" as="sourcePoint" />
+            <mxPoint x="260" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-39" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-19" target="ZEi_TAU3Dh7mGqA4sCaS-10" edge="1">
+          <mxGeometry x="-1" y="-112" width="160" relative="1" as="geometry">
+            <mxPoint x="580" y="640" as="sourcePoint" />
+            <mxPoint x="740" y="640" as="targetPoint" />
+            <mxPoint x="34" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-40" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-20" target="ZEi_TAU3Dh7mGqA4sCaS-10" edge="1">
+          <mxGeometry x="-1" y="-112" width="160" relative="1" as="geometry">
+            <mxPoint x="470" y="560" as="sourcePoint" />
+            <mxPoint x="410" y="520" as="targetPoint" />
+            <mxPoint x="34" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-41" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-17" target="ZEi_TAU3Dh7mGqA4sCaS-9" edge="1">
+          <mxGeometry x="-1" y="-112" width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="570" as="sourcePoint" />
+            <mxPoint x="420" y="530" as="targetPoint" />
+            <mxPoint x="34" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-42" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-18" target="ZEi_TAU3Dh7mGqA4sCaS-9" edge="1">
+          <mxGeometry x="-1" y="-112" width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="580" as="sourcePoint" />
+            <mxPoint x="430" y="540" as="targetPoint" />
+            <mxPoint x="34" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-43" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-22" target="ZEi_TAU3Dh7mGqA4sCaS-14" edge="1">
+          <mxGeometry x="-1" y="-112" width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="590" as="sourcePoint" />
+            <mxPoint x="440" y="550" as="targetPoint" />
+            <mxPoint x="34" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-44" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-24" target="ZEi_TAU3Dh7mGqA4sCaS-14" edge="1">
+          <mxGeometry x="-1" y="-112" width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="600" as="sourcePoint" />
+            <mxPoint x="450" y="560" as="targetPoint" />
+            <mxPoint x="34" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-45" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-23" target="ZEi_TAU3Dh7mGqA4sCaS-14" edge="1">
+          <mxGeometry x="-1" y="-112" width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="610" as="sourcePoint" />
+            <mxPoint x="460" y="570" as="targetPoint" />
+            <mxPoint x="34" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.95;entryY=0.26;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.03;exitY=0.285;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-33" target="ZEi_TAU3Dh7mGqA4sCaS-13" edge="1">
+          <mxGeometry x="-0.0118" y="6" relative="1" as="geometry">
+            <mxPoint x="720" y="580" as="sourcePoint" />
+            <mxPoint x="640" y="580" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-14" target="ZEi_TAU3Dh7mGqA4sCaS-13" edge="1">
+          <mxGeometry x="0.0768" y="7" relative="1" as="geometry">
+            <mxPoint x="491" y="670" as="sourcePoint" />
+            <mxPoint x="395" y="676" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-49" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-9" target="ZEi_TAU3Dh7mGqA4sCaS-6" edge="1">
+          <mxGeometry x="-0.1713" y="-10" relative="1" as="geometry">
+            <mxPoint x="340" y="190" as="sourcePoint" />
+            <mxPoint x="1050" y="500" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="340" y="140" />
+              <mxPoint x="1050" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-51" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.603;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry x="-0.5919" y="-10" relative="1" as="geometry">
+            <mxPoint x="869.9999999999986" y="310" as="sourcePoint" />
+            <mxPoint x="1026.04" y="691.3200000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.548;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-10" target="ZEi_TAU3Dh7mGqA4sCaS-6" edge="1">
+          <mxGeometry x="-0.6343" y="-10" relative="1" as="geometry">
+            <mxPoint x="873" y="320" as="sourcePoint" />
+            <mxPoint x="1010" y="670" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="310" y="430" />
+              <mxPoint x="1009" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-53" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-13" target="ZEi_TAU3Dh7mGqA4sCaS-6" edge="1">
+          <mxGeometry x="-0.4542" y="-10" relative="1" as="geometry">
+            <mxPoint x="883" y="330" as="sourcePoint" />
+            <mxPoint x="1049" y="521" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="310" y="590" />
+              <mxPoint x="984" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-54" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-1" y="-112" width="160" relative="1" as="geometry">
+            <mxPoint x="20" y="1130" as="sourcePoint" />
+            <mxPoint x="20" y="420" as="targetPoint" />
+            <mxPoint x="34" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-56" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-2" target="ZEi_TAU3Dh7mGqA4sCaS-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="840" as="sourcePoint" />
+            <mxPoint x="250" y="1183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-57" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-2" target="ZEi_TAU3Dh7mGqA4sCaS-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="1177" as="sourcePoint" />
+            <mxPoint x="430" y="1075" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-61" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-25" target="ZEi_TAU3Dh7mGqA4sCaS-15" edge="1">
+          <mxGeometry x="-0.2424" y="-8" relative="1" as="geometry">
+            <mxPoint x="517" y="676" as="sourcePoint" />
+            <mxPoint x="410" y="690" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-26" target="ZEi_TAU3Dh7mGqA4sCaS-15" edge="1">
+          <mxGeometry x="-0.2" y="-5" relative="1" as="geometry">
+            <mxPoint x="372" y="1170" as="sourcePoint" />
+            <mxPoint x="458" y="1100" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-63" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-27" target="ZEi_TAU3Dh7mGqA4sCaS-15" edge="1">
+          <mxGeometry x="-0.0619" y="-3" relative="1" as="geometry">
+            <mxPoint x="382" y="1180" as="sourcePoint" />
+            <mxPoint x="468" y="1110" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-64" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-28" target="ZEi_TAU3Dh7mGqA4sCaS-16" edge="1">
+          <mxGeometry x="-0.2424" y="-8" relative="1" as="geometry">
+            <mxPoint x="392" y="1190" as="sourcePoint" />
+            <mxPoint x="478" y="1120" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-30" target="ZEi_TAU3Dh7mGqA4sCaS-16" edge="1">
+          <mxGeometry x="-0.2424" y="-8" relative="1" as="geometry">
+            <mxPoint x="402" y="1200" as="sourcePoint" />
+            <mxPoint x="488" y="1130" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-31" target="ZEi_TAU3Dh7mGqA4sCaS-16" edge="1">
+          <mxGeometry x="-0.2424" y="-8" relative="1" as="geometry">
+            <mxPoint x="412" y="1210" as="sourcePoint" />
+            <mxPoint x="498" y="1140" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-69" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-16" edge="1">
+          <mxGeometry x="-0.6343" y="-10" relative="1" as="geometry">
+            <mxPoint x="640" y="1314.9999999999998" as="sourcePoint" />
+            <mxPoint x="1029.9999999999995" y="750" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-71" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="ZEi_TAU3Dh7mGqA4sCaS-15" target="ZEi_TAU3Dh7mGqA4sCaS-6" edge="1">
+          <mxGeometry x="-0.6343" y="-10" relative="1" as="geometry">
+            <mxPoint x="610" y="1065" as="sourcePoint" />
+            <mxPoint x="998" y="682.5" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="1000" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-75" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZEi_TAU3Dh7mGqA4sCaS-71" vertex="1" connectable="0">
+          <mxGeometry x="-0.3732" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEi_TAU3Dh7mGqA4sCaS-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;S&#39;authentifier&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="690" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyUmWxHdrllBtH6zhb4M-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;&quot;&gt;R&lt;span style=&quot;letter-spacing: 0em; text-align: left; background-color: initial;&quot;&gt;éinitialiser&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;le mot de passe en cas d&#39;oubli&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="910" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyUmWxHdrllBtH6zhb4M-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="340" as="sourcePoint" />
+            <mxPoint x="234" y="943" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,16 @@
+*mon projet est de réaliser une application mobile en utilisant android studio premiere activité ça sera authentification(log in ou sign in) la deuxieme ça sera affichage des photo api like unsplesh et lorsque on saisie une photo ça va sortir tous les infos sur elle
+
+
+plan des activités: 
+1. welcome
+2.login activity
+3.signup activity
+4.photo activity
+5.info activity
+6.mot de passe oublié activity
+7.myprofil activity
+
+*le projet consisite à developper une application mobile native Android en utilisant Kotlin en intégrant l'API "unsplesh" pour afficher et gérer des images
+ce projet doit suivre l'architecture de clean architecture et firebase 
+
+*il existe 4 type de modificateur d'accès tel que public, private, protected et internal
