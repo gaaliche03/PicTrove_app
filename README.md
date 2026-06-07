@@ -1,2 +1,3 @@
 This project is a mobile application developed using Kotlin that integrates the Unsplash API to search, browse, and download high-quality images. It follows a Clean MVVM architecture and Agile Scrum methodology. The app provides a smooth and intuitive user experience.
+</br>
 <img width="364" height="132" alt="AppLogo" src="https://github.com/user-attachments/assets/0f6fd176-d0aa-4d50-b630-f24eb4acf259" />
